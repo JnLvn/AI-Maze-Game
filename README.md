@@ -14,12 +14,12 @@ Run from Runner.java class in package ie.gmit.sw
 
 ##Maze Generator
 
-#Random Depth First Search 
+####Random Depth First Search 
 was used to generate my maze.
 
 ##Enemies 
 
-#Random Walk algorithm
+####Random Walk algorithm
 was used to initialize movement for enemies.
 
 
