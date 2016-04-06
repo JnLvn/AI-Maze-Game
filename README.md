@@ -22,4 +22,20 @@ was used to generate my maze.
 ####Random Walk algorithm
 was used to initialize movement for enemies.
 
+##Generate Hint/Clue
+
+####A Star algorithm
+was used to find the exit to maze.
+
+Didn't quite get this to work.
+
+##Fuzzy Logic
+
+####fightScene.fcl
+contains my fuzzy logic for all the fights in the maze game.
+
+The Fight.java class implements this fcl file.
+
+The fights in the maze work sometimes and not others...BUG!!!
+
 
